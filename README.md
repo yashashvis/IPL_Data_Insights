@@ -1,5 +1,6 @@
 IPL Data Insights Project
 Overview
+
 This project focuses on analyzing Indian Premier League (IPL) data to uncover insights into team performances, player statistics, and match trends. The project integrates R, MongoDB, and Power BI to create a complete data processing and visualization pipeline.
 
 Key Features
